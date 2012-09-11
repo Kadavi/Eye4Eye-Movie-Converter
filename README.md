@@ -1,4 +1,4 @@
-Regular video filetype converter. Supports many types and uses FFMPEG.
+Simple and robust video filetype converter. Supports many types and uses FFMPEG.
 
 # E4E Installation & Use
 
